@@ -28,4 +28,9 @@ A computer vision project that recognizes handwritten digits in real time using 
 
 ## Demo
 
+
+### Live Prediction
+
+![Live Prediction](images/live_prediction.png)
+
 Show a handwritten digit inside the green box and the system predicts it in real time.
