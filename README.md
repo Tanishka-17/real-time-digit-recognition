@@ -35,4 +35,3 @@ A computer vision project that recognizes handwritten digits in real time using 
 ![Live Calculator](images/calc.png) 
 
 
-Show a handwritten digit inside the green box and the system predicts it in real time.
