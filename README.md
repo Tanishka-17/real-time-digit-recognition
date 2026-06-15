@@ -1,4 +1,4 @@
-# Real-Time Handwritten Digit Recognition
+# Real-Time Handwritten Digit Recognition and Calculator
 
 A computer vision project that recognizes handwritten digits in real time using a webcam.
 
@@ -32,5 +32,7 @@ A computer vision project that recognizes handwritten digits in real time using 
 ### Live Prediction
 
 ![Live Prediction](images/live_prediction.png)
+![Live Calculator](images/calc.png) 
+
 
 Show a handwritten digit inside the green box and the system predicts it in real time.
